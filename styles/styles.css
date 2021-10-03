@@ -143,7 +143,8 @@ footer {
       grid-template-rows: auto auto auto;
       grid-gap: 30px;
       padding: 50px 20px;
-      justify-items: center;
+      justify-items: center;      
+      margin: 30px 10px 10px 10px;
     }
 
     .icono,
@@ -161,6 +162,7 @@ footer {
     .titulo {
       padding: 50px 20px;
       justify-items: center;
+      margin: 20px 10px;
     }
 
     .texto-titulo {
